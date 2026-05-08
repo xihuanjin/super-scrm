@@ -26,7 +26,6 @@ yarn-error.log*
 package-lock.log
 
 bootstrap.yml
-bootstrap-template.yml
 bootstrap-dev.yml
 bootstrap-pd.yml
 bootstrap-local.yml
